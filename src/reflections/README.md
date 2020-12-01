@@ -9,5 +9,5 @@ Hello there, thank you for taking the time to learn more about me. I am Shiwani 
   - [Portfolio](https://github.com)
 ## Contact
   - Phone: 123-456-7890
-  - Email: student@student.com
+  - Email: shiwanirana40@gmail.com
   
