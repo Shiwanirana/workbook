@@ -1,4 +1,5 @@
-# Find More About me here:
+# Find More About me here: 
+Hello there, thank you for taking the time to learn more about me. I am Shiwani Rana, a computer science graduate who is eager to apply all the knowledge that i gained during the course of my educaton. I am excited to solve the real world problems and bring value to your team. 
 
 ## Social Media
   - [Follow Me on Twitter](https://twitter.com)
