@@ -2,20 +2,24 @@
 
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
-```Change Directory-->This command lets you change the current directory or to navigate to other folder.
+```
+Change Directory-->This command lets you change the current directory or to navigate to other folder.
 ```
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
-```Make Directory-->This command lets you to make a new folder.
+```
+Make Directory-->This command lets you to make a new folder.
 ```
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
-```<html>-->This is a starting tag which tells the browser that a page is coming up.
-```</html>-->This is a closing tag which tells the browser about the page end.Everything on the web page should be between these two tags.
+```
+<html>-->This is a starting tag which tells the browser that a page is coming up.
+</html>-->This is a closing tag which tells the browser about the page end.Everything on the web page should be between these two tags.
 ```
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
-```Hyper Text Markup Language: This is a standard markup language used to design wed pages.
+```
+Hyper Text Markup Language: This is a standard markup language used to design wed pages.
    HTML structure:
     <!DOCTYPE html>
      <html>
@@ -31,7 +35,8 @@
 ```
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
-```Cascading Style Sheet: Used to style a web page using color, border, height, width, etc.
+```
+Cascading Style Sheet: Used to style a web page using color, border, height, width, etc.
    There are three types of CSS:
    1. Inline CSS:These are used to style a specific HTML element. For example: <p style="color:red;">
    2. Internal CSS:These are also called embedded CSS and uses a style tag<style> in head tag<head>. For example:<style type="text/css">
@@ -40,13 +45,15 @@
                  h1{ background-color: red;}   /*written in 'style.css' file*/
 ```
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
-```css
+```
+css
  h1.main-title {
    color : rgba(255, 210, 33, .75);
  }
 ```
 <!-- enter you answer in the space below -->
-```The three components are:
+```
+The three components are:
    1. Selector-->HTML element name, id name, class name, which actually selects an area of a page to be styled. 
    2. Property-->Name of the attribute you want to style for example color, border, background, height, width, position etc.
    3. Value-->Value that will be assigned to an attribute according to its specifications.
@@ -58,19 +65,22 @@
 ```
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
-```  The font-weight property of CSS makes a font look bold.
+```
+The font-weight property of CSS makes a font look bold.
      For example:
      font-weight: bold;
 ```
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
-```  Majority of the code is in the body tag. What ever appears on a web page should be inside of a body tag.
+```
+Majority of the code is in the body tag. What ever appears on a web page should be inside of a body tag.
      <body></body>
 ```
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
      The three tags are:
-```  1. Unordered List : It is used to group a set of related items in no order.
+```
+1. Unordered List : It is used to group a set of related items in no order.
         For example:
         <ul>                              /*Unordered List*/                  Result of Unordered List:
           <li>Coffee</li>                 /*List the item*/                    Coffee
@@ -93,7 +103,8 @@
 ```
 **10.** Define the display `:flex property:`
 <!-- enter you answer in the space below -->
-```'display:flux' can be helpful when there is a large empty space and a developer wants to use that. It decides how to evenly    distribute the contents.
+```
+'display:flux' can be helpful when there is a large empty space and a developer wants to use that. It decides how to evenly    distribute the contents.
       For example:
       display:block;/*you have 3 boxes(h:10px,w:10px),now the boxes will take the size of entire row individually regardless of there  size*/
       Box 1(h:10px, w:10px)
@@ -104,7 +115,8 @@
 ```
 **11.** What `CSS` properties affect the size of a box model?
 <!-- enter you answer in the space below -->
-```The main properties that affect the size of a box model are 
+```
+The main properties that affect the size of a box model are 
    Height and Width,Padding, Border and Margin.
    For example:
    div{
