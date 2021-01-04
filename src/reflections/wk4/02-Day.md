@@ -1,4 +1,4 @@
-# Day 1
+# Day 2
 _1/5/2020_
 
 ## What i learned in coding school is...
