@@ -1,5 +1,5 @@
 # Day 1
-_12/5/2020_
+_1/5/2020_
 
 ## What i learned in coding school is...
 how to code
