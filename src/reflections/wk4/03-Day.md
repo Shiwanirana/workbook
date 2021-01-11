@@ -19,3 +19,5 @@ const doSomething = async () => {
     1. Easier debugging: Debugging is hard on promises as debugger will not step over async code, but in case of async/await, it is easier as for the compiler its just like synchronous code. 
     2. Multiple async functions in series:
     Async functions can be chained easily making the syntax more readable and easy.
+
+    Day-3 Afternoon Project:  https://shiwanirana.github.io/pokemonapi/.

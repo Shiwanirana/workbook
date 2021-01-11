@@ -38,3 +38,6 @@ how to code
       .catch(error=>{
         console.log(error);                          /*If num=60   Output: Failed!*/
       })
+
+
+      Day-2 Afternoon Project:   https://shiwanirana.github.io/mvc-gregslistapi/.

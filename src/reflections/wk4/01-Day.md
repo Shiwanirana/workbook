@@ -22,3 +22,6 @@ Callbacks take some time to produce a result. The asynchronous/ async aldo means
     1. Keep the code shallow: Naming functions can be effective for avoiding callback hell.
     2. Modularize: It is always important to make modules while writing a code which in turn gives you better understanding, easier for new developers to understand.
     3. Handle every single error: This will make your code stable.
+
+
+    Day-1 Afternoon Project: https://shiwanirana.github.io/week-4-Day-1-Quiz/.
