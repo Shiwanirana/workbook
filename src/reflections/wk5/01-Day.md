@@ -14,3 +14,5 @@ axios.get("http://localhost:8080/name?first=harry&last=potter")
 
 ## 3. When do you think Query parameter would be helpful when writing your server?
      Query parameters are helpful when you want to access a particular object or you just want a specific field.
+
+     Day1 Afternoon Project:  https://shiwanirana.github.io/burgershack/.

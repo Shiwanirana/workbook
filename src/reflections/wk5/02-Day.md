@@ -14,3 +14,5 @@ how to code
 
 ## 3. What are some of the challenges faced when deciding how to manage a many-to-many relationship that ultimately drive your decision on how to create it?
       Many to many relationship means linking multiple records of one table to multiple records of another table. One main challenge in this relationship is you can not directly implement many to many relationships. So you need to break this into two one-to-many relationships.
+
+      Day2 Afternoon Project : https://shiwanirana.github.io/gregslistserver/.
