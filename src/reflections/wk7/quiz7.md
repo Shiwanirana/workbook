@@ -50,5 +50,5 @@ By using a 'key' vue knows which HTML element to delete or update.
 **9.** What is the `<slot>` element and what is it used for?
 <!-- enter you answer in the space below -->
 ```
-
+A <slot> is a placeholder inside a web component.
 ```

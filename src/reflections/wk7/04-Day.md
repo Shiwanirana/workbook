@@ -11,7 +11,7 @@ how to code
       I am feeling positive about front end and back end.
       
 ## 3. What would you do differently?
-      
+      I am not sure, what we did differently, but switching places made it easy for us  to understand exactly want is going on in the project.
 
 
 Day4 Afternoon Project: Partner Project

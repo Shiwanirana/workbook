@@ -3,7 +3,7 @@
 **1.** What is the package.json file used for?
 <!-- enter you answer in the space below -->
 ```
-
+Package.json file contains npm packages and various metadata relevant to the project. Basically it gives information to npm which then handles the project and its dependencies. 
 ``` 
 **2.** At what level of your project do you need package.json when deploying your application? Why?
 <!-- enter you answer in the space below -->
