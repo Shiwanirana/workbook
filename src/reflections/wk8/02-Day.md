@@ -18,3 +18,5 @@ how to code
       if you want a good service at cheap price, it won't be fast,
       if you want a good service and it should be fast, then it won't be cheap,
       if you want a fst service at cheap price, then it won't bt good.
+
+      Afternoon Challenge: Capstones Project

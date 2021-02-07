@@ -15,3 +15,5 @@ how to code
 ## 3. What projects do you have that you would include in your Portfolio? Why?
      For your portfolio, you can make a clone site, some app for family/friends, some app for a local business or something according to your own needs.
      For making a good portfolio from scratch, you can either make a clone site or a smaller but an improved version of a big site.
+
+     Afternoon Challenge: Capstones Project

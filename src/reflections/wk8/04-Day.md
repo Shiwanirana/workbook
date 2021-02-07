@@ -16,3 +16,5 @@ how to code
 
 ## 3. What testing method do you think is the least useful? Why?
       E2E is a good testing method but it can be very expensive to maintain and testing the whole system at once can be problematic.
+
+      Afternoon Challenge: Capstones Project
