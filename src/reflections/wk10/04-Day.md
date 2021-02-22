@@ -19,7 +19,8 @@ how to code
         last varchar(20),
         age number(3),
         description varchar(255),
-        id int
+        id int,
+        PRIMARY KEY(id)
       )
 
 ## 3. What is the difference between the following statements:
